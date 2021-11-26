@@ -55,8 +55,9 @@ section {
   background-repeat: no-repeat;
   background-position: left;
 }
-.experience-area h2 {
+.experience-area > h2 {
   margin-bottom: 60px;
+  margin-left: 5%;
 }
 
 .single-experience {
